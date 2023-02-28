@@ -160,3 +160,43 @@ body{
     color: var(--color-gray);
     padding: 0 17%;
 }
+
+
+@media (max-width: 1200px){
+    .main{
+        background-image: url("../files/images/logo.svg");
+        background-size: 50%;
+        background-position: center 5%;
+        width: 100%;
+    }
+    .container{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+    .container__box{
+        padding: 0;
+        margin: 60% 5% 0% 5%;
+    }
+    
+    .second{
+        margin: 0;
+    }
+    .devices{
+        margin: 0;
+    }
+    .devices__list{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer__list{
+        flex-direction: column;
+        font-size: 1em;
+        width: 100%;
+        line-height: 2em;
+    }
+    .footer__text{
+        padding: 0 5%;
+        text-align: justify;
+    }
+}
