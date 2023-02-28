@@ -167,7 +167,6 @@ body{
         background-image: url("../files/images/logo.svg");
         background-size: 50%;
         background-position: center 5%;
-        width: 100%;
     }
     .container{
         display: flex;
