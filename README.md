@@ -1,8 +1,17 @@
-# AluraPlus
+# Alura+
 
-Project made using CSS and HTML while attending Alura's class "HTML e CSS: praticando HTML/CSS".
+Rápida descrição do objetivo de fazer esse projeto
 
-The objective is to make a homepage for Alura+, which is a platform for developers and newcomers in development with courses from different tecnology areas.
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura+**
+| :label: Tecnologias | html, css
+| :rocket: URL         | https://pedrohamartins.github.io/AluraPlus/
+| :fire: Desafio     | https://pedrohamartins.github.io/AluraPlus/
 
-<img src="files/progress/website-screenshot.png" alt="ícone de celular" srcset="">
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](files/progress/website-screenshot.png#vitrinedev)
 
+## Detalhes do projeto
+
+Project made during of the studies with HTML & CSS courses made by Alura, where the entire project is designed in a single page.
